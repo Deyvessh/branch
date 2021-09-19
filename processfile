@@ -1,0 +1,24 @@
+linux commands --
+
+have you heard of .tar and to make a file zip
+
+tar -cvf filename.tar sourcefilename
+
+it will be archieved.. 
+
+and to zip that tar file
+
+gzip filename.tar.gz
+
+it will zip the file means compress it
+
+to unzip the file
+
+gunzip filename.tar.gz
+
+it will unzip the file
+
+and to unarchieve the file 
+
+tar -xvf filename.tar dir1/  -- means to a directory
+
