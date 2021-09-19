@@ -17,3 +17,7 @@ docker images
 -- docker pull the images
 
 docker pull ubuntu
+
+-- docker run the container
+
+docker run -it --name container_ubuntu ubuntu /bin/bash
