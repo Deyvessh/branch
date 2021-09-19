@@ -1,0 +1,19 @@
+docker commands --
+
+-- to install docker
+
+sudo apt-get install docker.io -y
+
+-- to get the version of the docker
+
+sudo docker --version
+
+-- to search images in the local dir
+
+basically swithch the user first - #sudo su
+
+docker images
+
+-- docker pull the images
+
+docker pull ubuntu
