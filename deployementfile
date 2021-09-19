@@ -1,0 +1,9 @@
+drwxrwxrwx is the access of the file
+here d states to the directory
+and after d, the three letters rwx - states to the owner, rwx - 421
+
+and the next 3 letter rwx - states to the group, rwx - 421
+
+and the last 3 letters rwx - states to the other users, rwx - 421
+
+
